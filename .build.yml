@@ -1,0 +1,6 @@
+image: alpine/edge
+packages:
+  - go
+tasks:
+  - build: go build -C addyrest -v ./...
+  - test: go test -C addyrest -cover -v ./...

@@ -1,0 +1,12 @@
+{
+    "data": [
+        "anonaddy.me",
+        "johndoe.anonaddy.com",
+        "johndoe.anonaddy.me"
+    ],
+    "sharedDomains": [
+        "anonaddy.me"
+    ],
+    "defaultAliasDomain": "anonaddy.me",
+    "defaultAliasFormat": "random_words"
+}
