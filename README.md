@@ -7,7 +7,7 @@
 
 # INSTALL
 
-Enter your project folder, and issue `go get`:
+Enter your project directory with `go.mod` inside, and run `go get`:
 
 ```bash
 go get git.sr.ht/~kovmir/addyrest
@@ -63,9 +63,11 @@ func main() {
 
 # DOCUMENTATION
 
-The entire codebase resides within [`client.go`](client.go), the rest of the
-files define methods and JSONs from [Addy API reference][3]. Each method is
-more or less self-descriptive and has a URL pointing to the upstream reference.
+The entire codebase resides in [`client.go`](client.go); the rest of the files
+define methods and JSONs from the [Addy API reference][3].
+[`types.go`](types.go) defines the return JSONs for all API methods. Each
+method is more or less self-descriptive and has a URL pointing to the upstream
+reference.
 
 [1]: https://addy.io/
 [2]: https://app.addy.io/settings/api
