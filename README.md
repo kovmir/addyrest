@@ -1,6 +1,6 @@
 # addyrest
 
-[Addy][1] [RESTful API][2] client library.
+[Addy RESTful API][2] client library.
 
 [![builds.sr.ht status](https://builds.sr.ht/~kovmir/addyrest/commits/master/.build.yml.svg)](https://builds.sr.ht/~kovmir/addyrest/commits/master/.build.yml?)
 [![Go Reference](https://pkg.go.dev/badge/git.sr.ht/~kovmir/addyrest.svg)](https://pkg.go.dev/git.sr.ht/~kovmir/addyrest)
@@ -69,6 +69,5 @@ define methods and JSONs from the [Addy API reference][3].
 method is more or less self-descriptive and has a URL pointing to the upstream
 reference.
 
-[1]: https://addy.io/
 [2]: https://app.addy.io/settings/api
 [3]: https://app.addy.io/docs/#
