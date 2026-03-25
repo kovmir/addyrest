@@ -1,6 +1,6 @@
 # addyrest
 
-[Addy RESTful API][2] client library.
+[Addy RESTful API][3] client library.
 
 [![builds.sr.ht status](https://builds.sr.ht/~kovmir/addyrest/commits/master/.build.yml.svg)](https://builds.sr.ht/~kovmir/addyrest/commits/master/.build.yml?)
 [![Go Reference](https://pkg.go.dev/badge/git.sr.ht/~kovmir/addyrest.svg)](https://pkg.go.dev/git.sr.ht/~kovmir/addyrest)
